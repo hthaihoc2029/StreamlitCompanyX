@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+datetime 
+openpyxl 
+scikit-learn 
+prophet
